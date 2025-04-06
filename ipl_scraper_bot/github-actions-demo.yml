@@ -1,0 +1,10 @@
+
+---
+
+**📌 .gitignore**
+```txt
+__pycache__/
+*.csv
+*.zip
+chromedriver*
+*.deb
